@@ -13,4 +13,4 @@ Marco Dos Santos Oliveira : marco.dossantosoliveira 'at' sunrise.ch
 
 you can read the OpenCL official documentation for compilation or try to update this CLI based on your own compilation environment.
 
-c++ -I /CUDAPATH/cuda/include/ -I /CUDAPATH/NVIDIA_GPU_Computing_SDK/OpenCL/common/inc/ -L /CUDAPATH/cuda/lib64/ -l OpenCL *.cpp -o output
+c++ -I /CUDAPATH/cuda/include/ -I /CUDAPATH/NVIDIA_GPU_Computing_SDK/OpenCL/common/inc/ -L /CUDAPATH/cuda/lib64/ -l OpenCL *.cpp -o OpenCL_TTCA
